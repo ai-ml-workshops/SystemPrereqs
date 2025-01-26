@@ -50,14 +50,14 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 - [HelloWorld with Ollama](https://github.com/ai-ml-workshops/ai-ollama-helloworld)
 - [Spring AI with RAG and PgVector (written by Dan Vega)](https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application)
 
-![Spring AI](images/spring-ai-integration-diagram-3.png)
+<img src="images/spring-ai-integration-diagram-3.png" alt="Spring AI" width="700">
 
 ### 2.3. Quarkus Langchain4j Applications
 
 - [AI Chatbot](https://github.com/ai-ml-workshops/ai-quarkus-langchain4j-chatbot)
 - [Document Retrieval for Language Models with PostgreSQL pgVector store](https://github.com/ai-ml-workshops/ai-quarkus-langchain4j-doc-retrieval)
 
-![Quarkus LangChain4j](images/quarkus-llms-big-picture.png)
+<img src="images/quarkus-llms-big-picture.png" alt="Quarkus LangChain4j" width="700">
 
 ## 3. Python Excerises
 
