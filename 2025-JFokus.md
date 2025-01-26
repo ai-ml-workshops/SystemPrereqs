@@ -21,15 +21,14 @@ If you are interested in dealing with LLMs from HuggingFace, follow the instruct
 
 ### 1.2. Container Runtimes 
 
-Install Docker or Podman to run the DataStore or Database.
+Install Docker or Podman to run the DataStore or Database. In the **Quarkus** exercises, [Quarkus Dev Service for PostgreSQL](https://quarkus.io/guides/databases-dev-services) will be used to start the PostgreSQL container **automatically** based on your container runtime environment.
+
  - [Docker](https://www.docker.com/)
  - [Podman](https://podman.io/)
 
-If you have already installed the PostgreSQL database locally, you can skip this step.
+If you prefer to install the PostgreSQL database and pgVector extension locally, follow the instructions below:
 
-In the **Quarkus** exercises, [Quarkus Dev Service for PostgreSQL](https://quarkus.io/guides/databases-dev-services) will be used to start the PostgreSQL container **automatically** based on your container runtime environment.
-
-- PostgreSQL ([Download site](https://www.postgresql.org/download/))
+- [PostgreSQL installation locally](https://www.postgresql.org/download/))
 - [PgVector vector extension](https://github.com/pgvector/pgvector/blob/master/README.md)
 
 ## 2. Java Excerises
