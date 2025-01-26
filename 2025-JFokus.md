@@ -53,7 +53,7 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 
 ### 2.3. Quarkus Langchain4j Applications
 
-- [AI Chatbot](https://github.com/ai-ml-workshops/ai-quarkus-langchain4j-chatbot)
+- [Quarkus LangChain4j Generative AI Chatbot](https://github.com/ai-ml-workshops/ai-quarkus-langchain4j-chatbot)
 - [Document Retrieval for Language Models with PostgreSQL pgVector store](https://github.com/ai-ml-workshops/ai-quarkus-langchain4j-doc-retrieval)
 
 <img src="images/quarkus-llms-big-picture.png" alt="Quarkus LangChain4j" width="700">
