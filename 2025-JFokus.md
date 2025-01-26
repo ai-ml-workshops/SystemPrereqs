@@ -28,7 +28,7 @@ Install Docker or Podman to run the DataStore or Database. In the **Quarkus** ex
 
 If you prefer to install the PostgreSQL database and pgVector extension locally, follow the instructions below:
 
-- [PostgreSQL installation locally](https://www.postgresql.org/download/))
+- [PostgreSQL installation locally](https://www.postgresql.org/download/)
 - [PgVector vector extension](https://github.com/pgvector/pgvector/blob/master/README.md)
 
 ## 2. Java Excerises
