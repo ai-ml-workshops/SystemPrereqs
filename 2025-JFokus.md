@@ -6,7 +6,7 @@
 
 ## 1. Environment Setup
 
-### 1.1. Create a new OpenAI API key
+### 1.1. OpenAI API key
 
 - Create an OpenAI free account ([signup for new user](https://platform.openai.com/signup/)).
 - **You must add money to your account before generating an Open AI Key.** The minimum amount of $5 should be sufficient. 
@@ -20,13 +20,14 @@ If you are interested in dealing with LLMs from HuggingFace, follow the instruct
 - AI-ML-Workshops community organization (OPTIONAL:  Please join our new [AI-ML-Workshops community organization](https://huggingface.co/AI-ML-workshops) for continuous info sharing and learning through the community, beyond the scope of this workshop)
 
 ### 1.2. Container Runtimes 
-If you prefer using a container runtime for the DataStore or Database, instead of local installation.
+
+Install Docker or Podman to run the DataStore or Database.
  - [Docker](https://www.docker.com/)
  - [Podman](https://podman.io/)
 
-### 1.3. Database and extension(s)
+If you have already installed the PostgreSQL database locally, you can skip this step.
 
-If you prefer using Docker image for the DataStore or Database, instead of local installation, you can skip this step. In the **Quarkus** exercises, Quarkus Dev Service for PostgreSQL will be used to start the PostgreSQL container for you **automatically**.
+In the **Quarkus** exercises, [Quarkus Dev Service for PostgreSQL](https://quarkus.io/guides/databases-dev-services) will be used to start the PostgreSQL container **automatically** based on your container runtime environment.
 
 - PostgreSQL ([Download site](https://www.postgresql.org/download/))
 - [PgVector vector extension](https://github.com/pgvector/pgvector/blob/master/README.md)
