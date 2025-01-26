@@ -24,7 +24,7 @@ If you prefer using a container runtime for the DataStore or Database, instead o
  - [Docker](https://www.docker.com/)
  - [Podman](https://podman.io/)
 
-#### 1.3. Database and extension(s)
+### 1.3. Database and extension(s)
 
 If you prefer using Docker image for the DataStore or Database, instead of local installation, you can skip this step. In the **Quarkus** exercises, Quarkus Dev Service for PostgreSQL will be used to start the PostgreSQL container for you **automatically**.
 
