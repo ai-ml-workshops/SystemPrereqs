@@ -1,6 +1,6 @@
 # Demystifying GenAI: Build A ChatGPT App with Vector Store
 
-**Welcome!** This tutorial guides you through creating a generative AI application – **a ChatGPT-like model** – with the power of Vector Stores. We'll start with **Java**, providing a hands-on experience. Afterward, you can explore equivalent implementations in *Python and C#*.
+**Welcome!** This tutorial guides you through creating a generative AI application – **a ChatGPT-like model** – with the power of Vector Stores. **We'll start with Java**, providing a hands-on experience. Afterward, you can explore equivalent implementations in *Python and C#*.
 
 **Review and deepen your understanding with the [Presentation Slides](https://bit.ly/42cVqoX)**.
 
