@@ -40,7 +40,7 @@ If you prefer to install the PostgreSQL database and pgVector extension locally,
 - Preferably using an IDE such as IntelliJ, VS Code, (or any equivalent tooling). CLI is okay too but you may need a bit of experimentation.
 - JDK 21.0 or later - Download it from [Adoptium](https://adoptium.net/)
 - Maven 3.9.9 or higher (Gradle will be okay too if you prefer it)
-_We'll be utilizing Spring AI and the online [spring initializr](https://start.spring.io) to generate the initial project 'frame', so the various library dependencies will be downloaded by default (including Spring Boot, Spring AI, Postgres with PgVector libraries.)
+_We'll be utilizing Spring AI and the online [spring initializr](https://start.spring.io) to generate the initial project 'frame', so the various library dependencies will be downloaded by default (including Spring Boot, Spring AI, Postgres with PgVector libraries)
 - Conainer Runtimes: [Docker](https://docs.docker.com/get-started/get-docker/) or [Podman](https://podman.io/docs/installation)
 - Spring AI reference materials can be found in [here](https://docs.spring.io/spring-ai/reference/)
 - Quarkus Langchain4j reference materials can be found in [here](https://quarkus.io/guides/langchain4j/)
