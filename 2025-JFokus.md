@@ -8,16 +8,18 @@
 
 ### 1.1. OpenAI API key
 
-- Create an OpenAI free account ([signup for new user](https://platform.openai.com/signup/)).
-- **You must add money to your account before generating an Open AI Key.** The minimum amount of $5 should be sufficient. 
-  - You can verify your balance on the [billing dashboard](https://platform.openai.com/settings/organization/billing/overview). Make sure you see "Auto recharge is off" below your balance, so that it doesn't automatically charge you when you run out of balance.
+- [Create an OpenAI free account](https://platform.openai.com/signup/)) 
+  - **You need to fund your account before generating an Open AI Key.** The minimum amount of **$5** should be sufficient. 
+  - Verify your balance on the [billing dashboard](https://platform.openai.com/settings/organization/billing/overview). 
+  - Make sure you see **Auto recharge is off** below your balance, so that it doesn't automatically charge you when you run out of balance.
 - Generate OpenAI key.
 
-Fine more details on the [OpenAI Account Setup Guide](https://coding-boot-camp.github.io/full-stack/ai/openai-account-setup-guide).
+Fine more information on the [OpenAI Account Setup Guide](https://coding-boot-camp.github.io/full-stack/ai/openai-account-setup-guide).
 
 If you are interested in dealing with LLMs from HuggingFace, follow the instructions below:
-- HuggingFace Account ([signup for new user](https://huggingface.co/))
-- AI-ML-Workshops community organization (OPTIONAL:  Please join our new [AI-ML-Workshops community organization](https://huggingface.co/AI-ML-workshops) for continuous info sharing and learning through the community, beyond the scope of this workshop)
+- [Sign up for a new account in HuggingFace](https://huggingface.co/)
+- [AI-ML-Workshops community organization](https://huggingface.co/AI-ML-workshops)
+  - Feel free to join the new AI-ML-Workshops community organization for continuous information sharing and learning through the community, beyond the scope of this workshop
 
 ### 1.2. Container Runtimes 
 
@@ -38,7 +40,7 @@ If you prefer to install the PostgreSQL database and pgVector extension locally,
 - Preferably using an IDE such as IntelliJ, VS Code, (or any equivalent tooling). CLI is okay too but you may need a bit of experimentation.
 - JDK 21.0 or later - Download it from [Adoptium](https://adoptium.net/)
 - Maven 3.9.9 or higher (Gradle will be okay too if you prefer it)
-_We'll be utilizing Spring AI and the online [spring initializr](https://start.spring.io) to generate the initial project 'frame', so the various library dependencies will be downloaded by default (including Spring Boot, Spring AI, Postgres with PgVector libraries...)
+_We'll be utilizing Spring AI and the online [spring initializr](https://start.spring.io) to generate the initial project 'frame', so the various library dependencies will be downloaded by default (including Spring Boot, Spring AI, Postgres with PgVector libraries.)
 - Conainer Runtimes: [Docker](https://docs.docker.com/get-started/get-docker/) or [Podman](https://podman.io/docs/installation)
 - Spring AI reference materials can be found in [here](https://docs.spring.io/spring-ai/reference/)
 - Quarkus Langchain4j reference materials can be found in [here](https://quarkus.io/guides/langchain4j/)
