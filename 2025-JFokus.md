@@ -8,7 +8,7 @@
 
 ### 1.1. OpenAI API key
 
-- [Create an OpenAI free account](https://platform.openai.com/signup/)) 
+- [Create an OpenAI free account](https://platform.openai.com/signup/)
   - **You need to fund your account before generating an Open AI Key.** The minimum amount of **$5** should be sufficient. 
   - Verify your balance on the [billing dashboard](https://platform.openai.com/settings/organization/billing/overview). 
   - Make sure you see **Auto recharge is off** below your balance, so that it doesn't automatically charge you when you run out of balance.
