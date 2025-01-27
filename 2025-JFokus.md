@@ -13,7 +13,7 @@
   - You can verify your balance on the [billing dashboard](https://platform.openai.com/settings/organization/billing/overview). Make sure you see "Auto recharge is off" below your balance, so that it doesn't automatically charge you when you run out of balance.
 - Generate OpenAI key.
 
-Fine more details on the [OpenAI Account Setup Guide](https://coding-boot-camp.github.io/full-stack/ai/openai-account-setup-guide).instructions.
+Fine more details on the [OpenAI Account Setup Guide](https://coding-boot-camp.github.io/full-stack/ai/openai-account-setup-guide).
 
 If you are interested in dealing with LLMs from HuggingFace, follow the instructions below:
 - HuggingFace Account ([signup for new user](https://huggingface.co/))
