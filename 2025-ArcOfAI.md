@@ -50,6 +50,7 @@ _We'll be utilizing Spring AI and the online [spring initializr](https://start.s
 - [HelloWorld with OpenAI](https://github.com/ai-ml-workshops/ai-openai-helloworld)
 - [HelloWorld with Ollama](https://github.com/ai-ml-workshops/ai-ollama-helloworld)
 - [Spring AI with RAG and PgVector (written by Dan Vega)](https://www.danvega.dev/blog/2024/10/22/getting-started-with-spring-ai-rag#building-your-first-rag-application)
+   - GitHub reference repo (Dan Vega)(https://github.com/danvega/java-rag/blob/main/README.md)
 
 <img src="images/spring-ai-integration-diagram-3.png" alt="Spring AI" width="700">
 
