@@ -27,11 +27,11 @@
 6) - Verify your email address
    - Select the time zone (US-Eastern)
    - IF YOU ARE DOING THIS STEP IN ADVANCE (before the workshop):
-      Deselect "Start Workshop Now?"
-      Enter the Workshop Date for "Choose a date to attend":  **13-Jan-2026**
-      Enter the Workshop Time for "Choose a time to attend":  **13:00 / 1:00PM**
+      - Deselect "Start Workshop Now?"
+      - Enter the Workshop Date for "Choose a date to attend":  **13-Jan-2026**
+      - Enter the Workshop Time for "Choose a time to attend":  **13:00 / 1:00PM**
    - OR, IF YOU ARE DOING THIS STEP DURING THE WORKSHOP:
-      Select "Start Workshop Now?"
+      - Select "Start Workshop Now?"
    
 
 
