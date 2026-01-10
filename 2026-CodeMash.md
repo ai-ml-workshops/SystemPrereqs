@@ -4,9 +4,9 @@
 
 **Review and deepen your understanding with the [Presentation Slides](https://bit.ly/4pubCtH)**.
 
-##All exercises are conducted using Oracle LiveLab’s cloud-based sandboxes.
+## All exercises are conducted using Oracle LiveLab’s cloud-based sandboxes.
 
-##All you need is your laptop and an **Oracle Account**. 
+## All you need is your laptop and an **Oracle Account**. 
 
 1) The account is free and can be created here:
 
@@ -14,7 +14,7 @@
  
 **If you do not have the account, please create it now, otherwise you can skip this step**.  
 
-2) Reserve an Oracle LiveLab Sandbox (free-tier) **HIGHLY SUGGESTED: Advanced Reservation**
+2) Reserve an Oracle LiveLab Sandbox (free-tier) (Making an **ADVANCED RESERVATION** is **HIGHLY RECOMMENDED**.)
 
 [https://bit.ly/3NdQhHN](https://bit.ly/3NdQhHN)
 
