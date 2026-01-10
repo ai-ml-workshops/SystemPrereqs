@@ -1,8 +1,10 @@
 # Demystifying Generative AI
 
-**Welcome!** This tutorial guides you through creating a generative AI application – **a ChatGPT-like model** – with the power of Vector Stores. **We'll start with Java**, providing a hands-on experience. Afterward, you can explore equivalent implementations in *Python and C#*.
+**Welcome!** 
+We will primarily be using the __Oracle free LiveLabs__ **[Getting Started with AI Vector Search](https://bit.ly/3NdQhHN)** for the lab exercise.
+There is also an __Optional Section__ which contains a small set of tutorials which will guide you through creating a few sample generative AI applications – **a ChatGPT-like model** – with the power of Vector Stores. **We'll have different "flavors" for this: Java, Python, C#, so you can get a little "taste" of each of them**.
 
-**Review and deepen your understanding with the [Presentation Slides](https://bit.ly/4pubCtH)**.
+**Presentation slide deck can be found [here](https://bit.ly/4pubCtH)**.
 
 ## All exercises are conducted using Oracle LiveLab’s cloud-based sandboxes.
 
@@ -33,11 +35,12 @@
    - OR, IF YOU ARE DOING THIS STEP DURING THE WORKSHOP:
       - Select "Start Workshop Now?"
    
+***You are free to browse through the Oracle LiveLabs catalog, and reserve additional sandboxes and try out more lab exercises***
 
 
 # OPTIONAL SECTION 
 
-**IF you are interested in trying the Java / Quarkus, Python, and/or C# samples, you are welcome to continue working through this particular section of the guideline**.
+**IF you are interested in trying the Java / Quarkus, Python, and/or C# samples, you are welcome to continue working through this**.
 
 ## 1. Environment Setup
 
